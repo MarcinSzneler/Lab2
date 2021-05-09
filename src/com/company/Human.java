@@ -1,6 +1,6 @@
 package com.company;
 
-import Lab2.devices.Car;
+import com.company.devices.Car;
 
 import java.util.Date;
 import java.util.Objects;

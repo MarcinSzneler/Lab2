@@ -1,7 +1,7 @@
 package com.company;
 
-import Lab2.devices.Car;
-import Lab2.devices.Phone;
+import com.company.devices.Car;
+import com.company.devices.Phone;
 
 import java.io.FileWriter;
 import java.io.IOException;
